@@ -38,30 +38,6 @@
     <div id="data-container" class="product-grid">
     </div>
 
-<footer>
-    <div class="footer-container">
-        <!-- Navigation Links -->
-        <ul class="footer-links">
-            <li><a href="index.php">Home</a></li>
-            <li><a href="catalogue/index.php">Products</a></li>
-            <li><a href="cart.php">Cart</a></li>
-            <li><a href="login.php">Login</a></li>
-        </ul>
-
-        <!-- Contact Us -->
-        <div class="contact">
-            <a href="contact.php">Contact Us</a>
-        </div>
-
-        <!-- Social Links -->
-        <div class="social-links">
-            <a href="#"><img src="images/faceB-icon.png" alt="Facebook"></a>
-            <a href="#"><img src="images/twitter-icon.png" alt="Twitter"></a>
-            <a href="#"><img src="images/insta-icon.png" alt="Instagram"></a>
-        </div>
-    </div>
-</footer>
-
 
 
 <script src="script.js"></script>
