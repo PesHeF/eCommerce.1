@@ -21,12 +21,17 @@
 </header>
 
 <section class="hero">
-    <div class="hero-content">
+    <div class="hero-content welcome">
         <h1>Welcome to Our Store</h1>
-        <p>Discover your new treasures and sell your old ones!</p>
-        <a href="Catalogue/index.php" class="btn">Shop Now</a>
+        <a href="Catalogue/index.php" class="btn1">Shop Now</a>
     </div>
+    <div class="hero-content register">
+        <h1>New? </h1>
+        <a href="Register/index.php" class="btn2">Register Here</a>
+
 </section>
+
+
 
 <section>
     <h2>Featured Products</h2>
