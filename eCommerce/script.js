@@ -27,6 +27,7 @@ function displayFeaturedProducts(products) {
             <h2>${product.title}</h2>
             <p class="price">&pound;${product.price.toFixed(2)}</p>
             <a href="Catalogue/index.php" class="featured-view-btn">View More</a>
+            <a href="Catalogue/productDetails.php?product-id=${product.id} " class="featured-view-prod-btn">View Product</a>
         `;
 
         container.appendChild(productCard);

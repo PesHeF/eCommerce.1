@@ -67,6 +67,20 @@
         background-color: darkorange;
     }
 
+.featured-view-prod-btn {
+    display: inline-block;
+    margin-top: 8px;
+    padding: 8px 12px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background 0.3s ease;
+}
+
 /* Responsive Grid */
 @media (max-width: 900px) {
     #featured-container {
@@ -138,13 +152,13 @@
 
 .welcome {
     position:absolute;
-    top:120px;
+    top:100px;
     right:20px;
 }
 
 .register{
     position:absolute;
-    top: 300px;
+    top: 280px;
     right:20px;
     
 }
