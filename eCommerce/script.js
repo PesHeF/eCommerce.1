@@ -35,3 +35,4 @@ function displayFeaturedProducts(products) {
 }
 
 window.onload = fetchFeaturedProducts;
+

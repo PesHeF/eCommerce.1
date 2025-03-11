@@ -54,9 +54,9 @@
         </ul>
 
         <!-- Contact Us -->
-        <div class="contact">
-            <a href="contact.php">Contact Us</a>
-        </div>
+        <a href="mailto:support@example.com?subject=Customer%20Inquiry&body=Hello,%20I%20have%20a%20question%20about...">Contact Us</a>
+   
+        
 
         <!-- Social Links -->
         <div class="social-links">
