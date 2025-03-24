@@ -3,28 +3,36 @@
   "WorkspaceRootPath": "C:\\xampp\\htdocs\\eCommerce\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\eCommerce\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\eCommerce\\chatbot.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:chatbot.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\eCommerce\\index.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:index.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\eCommerce\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\eCommerce\\hero-image.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:hero-image.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\eCommerce\\chatbot.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:chatbot.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\eCommerce\\hero-image2.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:hero-image2.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\eCommerce\\.env||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.env||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\eCommerce\\Catalogue\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Catalogue\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\eCommerce\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\eCommerce\\index.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:index.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\eCommerce\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\eCommerce\\Catalogue\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Catalogue\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,25 +54,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "hero-image.jpg",
-              "DocumentMoniker": "C:\\xampp\\htdocs\\eCommerce\\hero-image.jpg",
-              "RelativeDocumentMoniker": "hero-image.jpg",
-              "ToolTip": "C:\\xampp\\htdocs\\eCommerce\\hero-image.jpg",
-              "RelativeToolTip": "hero-image.jpg",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2025-03-11T15:54:00.806Z"
+              "DocumentIndex": 3,
+              "Title": ".env",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\eCommerce\\.env",
+              "RelativeDocumentMoniker": ".env",
+              "ToolTip": "C:\\xampp\\htdocs\\eCommerce\\.env",
+              "RelativeToolTip": ".env",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-24T17:02:10.082Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "hero-image2.jpg",
-              "DocumentMoniker": "C:\\xampp\\htdocs\\eCommerce\\hero-image2.jpg",
-              "RelativeDocumentMoniker": "hero-image2.jpg",
-              "ToolTip": "C:\\xampp\\htdocs\\eCommerce\\hero-image2.jpg",
-              "RelativeToolTip": "hero-image2.jpg",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2025-03-11T15:53:58.421Z"
+              "DocumentIndex": 7,
+              "Title": "script.js",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\eCommerce\\Catalogue\\script.js",
+              "RelativeDocumentMoniker": "Catalogue\\script.js",
+              "ToolTip": "C:\\xampp\\htdocs\\eCommerce\\Catalogue\\script.js",
+              "RelativeToolTip": "Catalogue\\script.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-03-24T15:47:06.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "chatbot.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\eCommerce\\chatbot.php",
+              "RelativeDocumentMoniker": "chatbot.php",
+              "ToolTip": "C:\\xampp\\htdocs\\eCommerce\\chatbot.php",
+              "RelativeToolTip": "chatbot.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2025-03-21T14:58:41.108Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -74,46 +98,60 @@
               "RelativeDocumentMoniker": "Catalogue\\styles.css",
               "ToolTip": "C:\\xampp\\htdocs\\eCommerce\\Catalogue\\styles.css",
               "RelativeToolTip": "Catalogue\\styles.css",
-              "ViewState": "AgIAAEUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA4BAAAAAAAAAAAswC8BAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-03-11T00:28:42.042Z"
+              "WhenOpened": "2025-03-11T00:28:42.042Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "script.js",
               "DocumentMoniker": "C:\\xampp\\htdocs\\eCommerce\\script.js",
               "RelativeDocumentMoniker": "script.js",
               "ToolTip": "C:\\xampp\\htdocs\\eCommerce\\script.js",
               "RelativeToolTip": "script.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-03-10T16:01:21.477Z"
+              "WhenOpened": "2025-03-10T16:01:21.477Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "index.php",
-              "DocumentMoniker": "C:\\xampp\\htdocs\\eCommerce\\index.php",
-              "RelativeDocumentMoniker": "index.php",
-              "ToolTip": "C:\\xampp\\htdocs\\eCommerce\\index.php",
-              "RelativeToolTip": "index.php",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
-              "WhenOpened": "2025-03-10T16:00:33.154Z"
+              "DocumentIndex": 2,
+              "Title": "chatbot.html",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\eCommerce\\chatbot.html",
+              "RelativeDocumentMoniker": "chatbot.html",
+              "ToolTip": "C:\\xampp\\htdocs\\eCommerce\\chatbot.html",
+              "RelativeToolTip": "chatbot.html",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABgAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-21T14:56:16.919Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "styles.css",
               "DocumentMoniker": "C:\\xampp\\htdocs\\eCommerce\\styles.css",
               "RelativeDocumentMoniker": "styles.css",
               "ToolTip": "C:\\xampp\\htdocs\\eCommerce\\styles.css",
               "RelativeToolTip": "styles.css",
-              "ViewState": "AgIAAFgAAAAAAAAAAAAWwIIAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAPAAAAAAAAAAAAAAAPoAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-03-10T16:00:14.148Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-10T16:00:14.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "index.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\eCommerce\\index.php",
+              "RelativeDocumentMoniker": "index.php",
+              "ToolTip": "C:\\xampp\\htdocs\\eCommerce\\index.php",
+              "RelativeToolTip": "index.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2025-03-10T16:00:33.154Z"
             },
             {
               "$type": "Bookmark",

@@ -56,7 +56,8 @@
         <!-- Contact Us -->
         <a href="mailto:support@example.com?subject=Customer%20Inquiry&body=Hello,%20I%20have%20a%20question%20about...">Contact Us</a>
    
-        
+        <!-- Chat Bot -->
+        <?php include 'chatbot.html'; ?>
 
         <!-- Social Links -->
         <div class="social-links">

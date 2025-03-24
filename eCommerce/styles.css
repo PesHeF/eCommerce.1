@@ -198,10 +198,57 @@ footer {
     margin: 0 auto;
 }
 
+/* Styling for chatbox */
+#chat-container {
+    display: flex;
+    flex-direction: column; /* Stack elements vertically */
+    align-items: center; /* Center-align content */
+    width: 300px; /* Adjust width as needed */
+    margin: auto; /* Center container */
+}
+
+#chatbox {
+    width: 100%; /* Match container width */
+    height: 80px; /* Adjust height for better visibility */
+    border: 1px solid #ccc;
+    overflow-y: scroll;
+    padding: 10px;
+    margin-bottom: 10px; /* Add spacing below chatbox */
+}
+
+#input-container {
+    display: flex;
+    width: 100%;
+    gap: 5px; /* Space between input and button */
+}
+
+input {
+    flex-grow: 1; /* Input box takes up available space */
+    padding: 5px;
+}
+
+button {
+    padding: 5px;
+}
+
+.message {
+    margin-bottom: 10px;
+}
+
+.user-message {
+    font-weight: bold;
+    color: blue;
+}
+
+.bot-message {
+    font-weight: normal;
+    color: green;
+}
+
 /* Navigation Links */
 .footer-links {
     list-style: none;
-    padding: 0;
+    padding: 20px;
     display: flex;
     gap: 20px;
 }
@@ -232,6 +279,7 @@ footer {
     .social-links img {
         width: 48px; /* Adjust icon size */
         height: 48px;
-     /*   filter: brightness(0) invert(1); /* Makes white icons */
+    
     }
+
 

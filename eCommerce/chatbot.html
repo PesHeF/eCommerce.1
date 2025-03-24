@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chatbot</title>
+
+</head>
+<body>
+
+    <div id="chat-container">
+        <div id="chatbox"></div>
+        <div id="input-container">
+            <input type="text" id="user-input" placeholder="Need help?">
+            <button onclick="sendMessage()">Send</button>
+        </div>
+    </div>
+   
+    <script>
+        let lastRequestTime = 0;
+        const rateLimit = 3;
+
+        async function sendMessage() {
+            const now = Date.now();
+            if (now - lastRequestTime < 20000) {  // 20 seconds = 3 requests per minute
+                console.log("Rate limit hit. Please wait.");
+                return;
+            }
+            const userInput = document.getElementById('user-input').value;
+            lastRequestTime = now;
+
+            if (userInput.trim() === "") return; // Don't send empty messages
+
+            // Display the user's message
+            displayMessage(userInput, 'user-message');
+
+            const response = await fetch("http://localhost/eCommerce/chatbot.php", {
+                method: "POST",
+                headers: {
+                    "Content-Type": "application/json"
+                },
+                body: JSON.stringify({ user_input: userInput })  // Send the user input as JSON
+            });
+
+            const data = await response.json();
+            if (data.error) {
+                // Handle errors (e.g., failed request, invalid response)
+                displayMessage("Error: " + data.error, 'bot-message');
+            } else {
+                // Display the bot's response
+                displayMessage(data.bot_response, 'bot-message');
+            }
+
+            document.getElementById('user-input').value = ""; // Clear input field
+        }
+
+        // Function to display messages in the chatbox
+        function displayMessage(message, type) {
+            const chatbox = document.getElementById('chatbox');
+            const messageElement = document.createElement('div');
+            messageElement.classList.add('message', type);
+            messageElement.innerText = message;
+            chatbox.appendChild(messageElement);
+
+            // Scroll to the bottom of the chatbox
+            chatbox.scrollTop = chatbox.scrollHeight;
+        }
+    </script>
+
+</body>
+</html>
