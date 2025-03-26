@@ -40,14 +40,47 @@ function displayProductDetails(product) {
             </ul>
         </div>
     `;
+
+    // Add an event listener for the "Add to Cart" button
+    const addToCartButton = document.getElementById('add-to-cart');
+    addToCartButton.addEventListener('click', function () {
+        addToCart(product); // Add product to cart
+    });
 }
 
-// Function to change the main product image when a thumbnail is clicked
-function changeImage(image) {
-    document.getElementById('main-product-image').src = image;
+function loadCart() {
+    fetch('../cart/cart.php')
+        .then(res => res.json())
+        .then(data => {
+            cart = data;
+            renderCart();
+        });
 }
 
-// Event listener for Add to Cart button
-document.getElementById('add-to-cart').addEventListener('click', function () {
-    alert('Product added to cart!');
-});
+function addToCart(product) {
+    let cart = JSON.parse(sessionStorage.getItem("cart")) || [];
+
+    // Check if product is already in cart
+    let existingItem = cart.find(item => item.id === product.id);
+    if (existingItem) {
+        existingItem.quantity += 1; // Increase quantity if already in the cart
+    } else {
+        cart.push({
+            id: product.id,
+            title: product.title,
+            price: product.price,
+            image: product.image,
+            quantity: 1
+        });
+    }
+
+    console.log(cart);
+    // Store the updated cart back in sessionStorage
+    sessionStorage.setItem("cart", JSON.stringify(cart));
+    console.log(sessionStorage.getItem("cart"));
+
+    alert(`${product.title} added to cart!`);
+}
+
+
+

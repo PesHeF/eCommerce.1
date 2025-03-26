@@ -9,6 +9,8 @@
     align-items: center;
 }
 
+
+
 /* Featured Product Card */
 .featured-product {
     background: white;
@@ -109,6 +111,7 @@
     list-style: none;
     display: flex;
     gap: 20px; /* Spacing between links */
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif, 
 }
 
 /* Nav Links */
@@ -196,6 +199,7 @@ footer {
     align-items: center;
     max-width: 1200px;
     margin: 0 auto;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif,
 }
 
 /* Styling for chatbox */
