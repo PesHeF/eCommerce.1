@@ -13,7 +13,7 @@ if (!$inputData || !isset($inputData['user_input'])) {
 $userInput = $inputData['user_input'];
 
 // OpenAI API Key (use a secure way to store the API key)
-$apiKey = ;
+$apiKey = '';
 
 // Prepare the request data
 $data = [

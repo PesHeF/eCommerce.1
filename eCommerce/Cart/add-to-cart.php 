@@ -1,0 +1,24 @@
+<?php
+session_start();
+
+// Fake product database (used just for this demo)
+$products = [
+  1 => ["name" => "Product A", "price" => 29.99, "image" => "https://via.placeholder.com/100"],
+  2 => ["name" => "Product B", "price" => 19.99, "image" => "https://via.placeholder.com/100"]
+];
+
+if ($_SERVER['REQUEST_METHOD'] === 'POST') {
+  $id = intval($_POST['id']);
+  $qty = intval($_POST['quantity']);
+
+  if (isset($products[$id])) {
+    $product = $products[$id];
+    $product['quantity'] = $qty;
+
+    $_SESSION['cart'][$id] = $product;
+  }
+}
+
+header("Location: cart.php");
+exit();
+

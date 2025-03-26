@@ -7,32 +7,92 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:chatbot.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\eCommerce\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\eCommerce\\chatbot.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:chatbot.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\eCommerce\\.env||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.env||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\eCommerce\\Catalogue\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Catalogue\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\eCommerce\\index.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:index.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\eCommerce\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\eCommerce\\Catalogue\\productDetails.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Catalogue\\productDetails.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\eCommerce\\Catalogue\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Catalogue\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\eCommerce\\Catalogue\\productDetails.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Catalogue\\productDetails.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\eCommerce\\Cart\\cart.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Cart\\cart.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\eCommerce\\Cart\\api\uF022remove.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Cart\\api\uF022remove.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\eCommerce\\Cart\\api\uF022update.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Cart\\api\uF022update.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\eCommerce\\Cart\\api\uF022checkout.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Cart\\api\uF022checkout.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\eCommerce\\Cart\\api\uF022cart.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Cart\\api\uF022cart.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\eCommerce\\Styles\\homeStyles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Styles\\homeStyles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\eCommerce\\Styles\\registerStyles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Styles\\registerStyles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\eCommerce\\Styles\\loginStyles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Styles\\loginStyles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\eCommerce\\Cart\\test-add.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Cart\\test-add.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\eCommerce\\LoginRegister\\register.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LoginRegister\\register.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\eCommerce\\LoginRegister\\index.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LoginRegister\\index.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\eCommerce\\Catalogue\\index.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Catalogue\\index.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\eCommerce\\Styles\\catalogueStyles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Styles\\catalogueStyles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\eCommerce\\Styles\\cartStyles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Styles\\cartStyles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\eCommerce\\Cart\\db_connect.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Cart\\db_connect.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\eCommerce\\LoginRegister\\db_connect.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LoginRegister\\db_connect.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\eCommerce\\Images\\image.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Images\\image.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\eCommerce\\Cart\\add-to-cart.php \uF028||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Cart\\add-to-cart.php \uF028||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,7 +102,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,104 +114,301 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": ".env",
-              "DocumentMoniker": "C:\\xampp\\htdocs\\eCommerce\\.env",
-              "RelativeDocumentMoniker": ".env",
-              "ToolTip": "C:\\xampp\\htdocs\\eCommerce\\.env",
-              "RelativeToolTip": ".env",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-03-24T17:02:10.082Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "script.js",
-              "DocumentMoniker": "C:\\xampp\\htdocs\\eCommerce\\Catalogue\\script.js",
-              "RelativeDocumentMoniker": "Catalogue\\script.js",
-              "ToolTip": "C:\\xampp\\htdocs\\eCommerce\\Catalogue\\script.js",
-              "RelativeToolTip": "Catalogue\\script.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-03-24T15:47:06.61Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "chatbot.php",
               "DocumentMoniker": "C:\\xampp\\htdocs\\eCommerce\\chatbot.php",
               "RelativeDocumentMoniker": "chatbot.php",
               "ToolTip": "C:\\xampp\\htdocs\\eCommerce\\chatbot.php",
               "RelativeToolTip": "chatbot.php",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
-              "WhenOpened": "2025-03-21T14:58:41.108Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "styles.css",
-              "DocumentMoniker": "C:\\xampp\\htdocs\\eCommerce\\Catalogue\\styles.css",
-              "RelativeDocumentMoniker": "Catalogue\\styles.css",
-              "ToolTip": "C:\\xampp\\htdocs\\eCommerce\\Catalogue\\styles.css",
-              "RelativeToolTip": "Catalogue\\styles.css",
-              "ViewState": "AgIAAA4BAAAAAAAAAAAswC8BAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-03-11T00:28:42.042Z",
+              "WhenOpened": "2025-03-26T13:18:45.149Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "script.js",
-              "DocumentMoniker": "C:\\xampp\\htdocs\\eCommerce\\script.js",
-              "RelativeDocumentMoniker": "script.js",
-              "ToolTip": "C:\\xampp\\htdocs\\eCommerce\\script.js",
-              "RelativeToolTip": "script.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-03-10T16:01:21.477Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "chatbot.html",
               "DocumentMoniker": "C:\\xampp\\htdocs\\eCommerce\\chatbot.html",
               "RelativeDocumentMoniker": "chatbot.html",
               "ToolTip": "C:\\xampp\\htdocs\\eCommerce\\chatbot.html",
               "RelativeToolTip": "chatbot.html",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAABgAAABFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-03-21T14:56:16.919Z",
+              "WhenOpened": "2025-03-26T13:18:42.794Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "styles.css",
-              "DocumentMoniker": "C:\\xampp\\htdocs\\eCommerce\\styles.css",
-              "RelativeDocumentMoniker": "styles.css",
-              "ToolTip": "C:\\xampp\\htdocs\\eCommerce\\styles.css",
-              "RelativeToolTip": "styles.css",
-              "ViewState": "AgIAAPAAAAAAAAAAAAAAAPoAAAARAAAAAAAAAA==",
+              "Title": "api\uF022remove.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\eCommerce\\Cart\\api\uF022remove.php",
+              "RelativeDocumentMoniker": "Cart\\api\uF022remove.php",
+              "ToolTip": "C:\\xampp\\htdocs\\eCommerce\\Cart\\api\uF022remove.php",
+              "RelativeToolTip": "Cart\\api\uF022remove.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2025-03-26T13:11:50.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "registerStyles.css",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\eCommerce\\Styles\\registerStyles.css",
+              "RelativeDocumentMoniker": "Styles\\registerStyles.css",
+              "ToolTip": "C:\\xampp\\htdocs\\eCommerce\\Styles\\registerStyles.css",
+              "RelativeToolTip": "Styles\\registerStyles.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-03-10T16:00:14.148Z"
+              "WhenOpened": "2025-03-26T13:08:05.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "api\uF022update.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\eCommerce\\Cart\\api\uF022update.php",
+              "RelativeDocumentMoniker": "Cart\\api\uF022update.php",
+              "ToolTip": "C:\\xampp\\htdocs\\eCommerce\\Cart\\api\uF022update.php",
+              "RelativeToolTip": "Cart\\api\uF022update.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2025-03-26T13:05:39.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "test-add.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\eCommerce\\Cart\\test-add.php",
+              "RelativeDocumentMoniker": "Cart\\test-add.php",
+              "ToolTip": "C:\\xampp\\htdocs\\eCommerce\\Cart\\test-add.php",
+              "RelativeToolTip": "Cart\\test-add.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2025-03-26T13:05:18.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "productDetails.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\eCommerce\\Catalogue\\productDetails.php",
+              "RelativeDocumentMoniker": "Catalogue\\productDetails.php",
+              "ToolTip": "C:\\xampp\\htdocs\\eCommerce\\Catalogue\\productDetails.php",
+              "RelativeToolTip": "Catalogue\\productDetails.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2025-03-26T12:56:37.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "homeStyles.css",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\eCommerce\\Styles\\homeStyles.css",
+              "RelativeDocumentMoniker": "Styles\\homeStyles.css",
+              "ToolTip": "C:\\xampp\\htdocs\\eCommerce\\Styles\\homeStyles.css",
+              "RelativeToolTip": "Styles\\homeStyles.css",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAewIIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-26T12:49:53.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "index.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\eCommerce\\Catalogue\\index.php",
+              "RelativeDocumentMoniker": "Catalogue\\index.php",
+              "ToolTip": "C:\\xampp\\htdocs\\eCommerce\\Catalogue\\index.php",
+              "RelativeToolTip": "Catalogue\\index.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2025-03-26T12:46:27.515Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "cart.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\eCommerce\\Cart\\cart.php",
+              "RelativeDocumentMoniker": "Cart\\cart.php",
+              "ToolTip": "C:\\xampp\\htdocs\\eCommerce\\Cart\\cart.php",
+              "RelativeToolTip": "Cart\\cart.php",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAAAIIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2025-03-26T11:15:59.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "api\uF022cart.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\eCommerce\\Cart\\api\uF022cart.php",
+              "RelativeDocumentMoniker": "Cart\\api\uF022cart.php",
+              "ToolTip": "C:\\xampp\\htdocs\\eCommerce\\Cart\\api\uF022cart.php",
+              "RelativeToolTip": "Cart\\api\uF022cart.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2025-03-26T11:15:10.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "productDetails.js",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\eCommerce\\Catalogue\\productDetails.js",
+              "RelativeDocumentMoniker": "Catalogue\\productDetails.js",
+              "ToolTip": "C:\\xampp\\htdocs\\eCommerce\\Catalogue\\productDetails.js",
+              "RelativeToolTip": "Catalogue\\productDetails.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-03-26T12:46:30.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "index.php",
               "DocumentMoniker": "C:\\xampp\\htdocs\\eCommerce\\index.php",
               "RelativeDocumentMoniker": "index.php",
               "ToolTip": "C:\\xampp\\htdocs\\eCommerce\\index.php",
               "RelativeToolTip": "index.php",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
-              "WhenOpened": "2025-03-10T16:00:33.154Z"
+              "WhenOpened": "2025-03-26T11:40:31.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "catalogueStyles.css",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\eCommerce\\Styles\\catalogueStyles.css",
+              "RelativeDocumentMoniker": "Styles\\catalogueStyles.css",
+              "ToolTip": "C:\\xampp\\htdocs\\eCommerce\\Styles\\catalogueStyles.css",
+              "RelativeToolTip": "Styles\\catalogueStyles.css",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-26T13:03:53.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "api\uF022checkout.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\eCommerce\\Cart\\api\uF022checkout.php",
+              "RelativeDocumentMoniker": "Cart\\api\uF022checkout.php",
+              "ToolTip": "C:\\xampp\\htdocs\\eCommerce\\Cart\\api\uF022checkout.php",
+              "RelativeToolTip": "Cart\\api\uF022checkout.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2025-03-26T11:09:32.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "cartStyles.css",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\eCommerce\\Styles\\cartStyles.css",
+              "RelativeDocumentMoniker": "Styles\\cartStyles.css",
+              "ToolTip": "C:\\xampp\\htdocs\\eCommerce\\Styles\\cartStyles.css",
+              "RelativeToolTip": "Styles\\cartStyles.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-26T11:20:38.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "loginStyles.css",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\eCommerce\\Styles\\loginStyles.css",
+              "RelativeDocumentMoniker": "Styles\\loginStyles.css",
+              "ToolTip": "C:\\xampp\\htdocs\\eCommerce\\Styles\\loginStyles.css",
+              "RelativeToolTip": "Styles\\loginStyles.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-26T11:20:05.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "db_connect.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\eCommerce\\Cart\\db_connect.php",
+              "RelativeDocumentMoniker": "Cart\\db_connect.php",
+              "ToolTip": "C:\\xampp\\htdocs\\eCommerce\\Cart\\db_connect.php",
+              "RelativeToolTip": "Cart\\db_connect.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2025-03-26T12:22:52.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "register.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\eCommerce\\LoginRegister\\register.php",
+              "RelativeDocumentMoniker": "LoginRegister\\register.php",
+              "ToolTip": "C:\\xampp\\htdocs\\eCommerce\\LoginRegister\\register.php",
+              "RelativeToolTip": "LoginRegister\\register.php",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAC8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2025-03-26T10:55:25.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "index.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\eCommerce\\LoginRegister\\index.php",
+              "RelativeDocumentMoniker": "LoginRegister\\index.php",
+              "ToolTip": "C:\\xampp\\htdocs\\eCommerce\\LoginRegister\\index.php",
+              "RelativeToolTip": "LoginRegister\\index.php",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2025-03-26T10:53:50.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "image.jpg",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\eCommerce\\Images\\image.jpg",
+              "RelativeDocumentMoniker": "Images\\image.jpg",
+              "ToolTip": "C:\\xampp\\htdocs\\eCommerce\\Images\\image.jpg",
+              "RelativeToolTip": "Images\\image.jpg",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-03-26T11:20:01.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "db_connect.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\eCommerce\\LoginRegister\\db_connect.php",
+              "RelativeDocumentMoniker": "LoginRegister\\db_connect.php",
+              "ToolTip": "C:\\xampp\\htdocs\\eCommerce\\LoginRegister\\db_connect.php",
+              "RelativeToolTip": "LoginRegister\\db_connect.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2025-03-26T10:58:01.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "add-to-cart.php \uF028",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\eCommerce\\Cart\\add-to-cart.php \uF028",
+              "RelativeDocumentMoniker": "Cart\\add-to-cart.php \uF028",
+              "ToolTip": "C:\\xampp\\htdocs\\eCommerce\\Cart\\add-to-cart.php \uF028",
+              "RelativeToolTip": "Cart\\add-to-cart.php \uF028",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-26T11:14:57.876Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",

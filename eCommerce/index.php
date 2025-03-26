@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>eCommerce Home</title>
-    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="styles/homeStyles.css">
 </head>
 <body>
 
@@ -14,8 +14,8 @@
         <ul class="nav-menu">
             <li><a href="index.php" class="nav-link">Home</a></li>
             <li><a href="Catalogue/index.php" class="nav-link">Products</a></li>
-            <li><a href="cart.html" class="nav-link">Cart</a></li>
-            <li><a href="login.html" class="nav-link">Login</a></li>
+            <li><a href="cart/cart.php" class="nav-link">Cart</a></li>
+            <li><a href="loginregister/index.php" class="nav-link">Login</a></li>
         </ul>
     </nav>
 </header>
@@ -27,7 +27,7 @@
     </div>
     <div class="hero-content register">
         <h1>New? </h1>
-        <a href="Register/index.php" class="btn2">Register Here</a>
+        <a href="loginregister/register.php" class="btn2">Register Here</a>
 
 </section>
 
@@ -49,8 +49,8 @@
         <ul class="footer-links">
             <li><a href="index.php">Home</a></li>
             <li><a href="catalogue/index.php">Products</a></li>
-            <li><a href="cart.php">Cart</a></li>
-            <li><a href="login.php">Login</a></li>
+            <li><a href="cart/cart.php">Cart</a></li>
+            <li><a href="loginregister/index.php">Login</a></li>
         </ul>
 
         <!-- Contact Us -->

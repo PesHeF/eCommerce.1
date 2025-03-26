@@ -1,0 +1,124 @@
+/* Reset and Font Setup */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+/* Body Styling - Common Background */
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    color: #fff;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+/* Background for Login and Register Pages */
+body.login-background {
+    background: url('image.jpg') no-repeat center center fixed;
+    background-size: cover;
+}
+
+body.register-background {
+    background: url('../images/image.jpg') no-repeat center center fixed;
+    background-size: cover;
+}
+
+/* Form Container */
+.form-container {
+    background: rgba(0, 0, 0, 0.7); /* Transparent dark background */
+    padding: 1.5rem;
+    border-radius: 12px;
+    width: 360px; /* Slightly wider */
+    text-align: center;
+    box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.3);
+}
+
+/* Form Header */
+.form-container h2 {
+    font-size: 1.7rem; /* Slightly larger title */
+    margin-bottom: 1rem;
+    color: #fff;
+}
+
+/* Input Fields */
+.form-container input[type="text"],
+.form-container input[type="email"],
+.form-container input[type="password"],
+.form-container select {
+    width: 100%;
+    padding: 0.6rem; /* Reduce padding for a shorter height */
+    margin: 0.4rem 0; /* Reduce margin for compact spacing */
+    border: none;
+    border-radius: 15px; /* Keep rounded style */
+    background: #333;
+    color: #fff;
+    outline: none;
+    text-align: left;
+    padding-left: 1rem;
+    font-size: 0.9rem;
+}
+
+/* Button Styling */
+.form-container button {
+    width: 100%;
+    padding: 0.75rem;
+    margin-top: 0.8rem; /* Reduced margin to save space */
+    border: none;
+    border-radius: 15px;
+    background: #fff;
+    color: #333;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background 0.3s;
+    font-size: 1rem;
+}
+
+.form-container button:hover {
+    background: #ddd;
+}
+
+/* Link Styling for Register/Login Link */
+.form-container p {
+    font-size: 0.85rem; /* Slightly smaller text for compactness */
+    margin-top: 1rem;
+}
+
+.form-container a {
+    color: #8f47ec;
+    text-decoration: none;
+}
+
+.form-container a:hover {
+    text-decoration: underline;
+}
+
+/* Error Message Styling */
+.error-message {
+    color: #ff6b6b;
+    font-size: 0.9rem;
+    margin-bottom: 1rem;
+    text-align: center;
+}
+
+/* Additional Styling for Options (Checkbox or Links within the form) */
+.options {
+    display: flex;
+    justify-content: space-between;
+    font-size: 0.9rem;
+    margin: 0.8rem 0;
+}
+
+.options label,
+.options a {
+    color: #bbb;
+}
+
+.options a:hover {
+    color: #fff;
+}

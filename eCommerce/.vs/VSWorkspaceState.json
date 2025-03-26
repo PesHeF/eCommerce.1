@@ -1,9 +1,12 @@
 {
   "ExpandedNodes": [
     "",
+    "\\Cart",
     "\\Catalogue",
-    "\\Images"
+    "\\Images",
+    "\\LoginRegister",
+    "\\Styles"
   ],
-  "SelectedNode": "\\chatbot.html",
+  "SelectedNode": "\\chatbot.php",
   "PreviewInSolutionExplorer": false
 }
